@@ -1,5 +1,6 @@
 ---
-applyTo: 'none'
+mode: 'ask'
+description: 'Provides a code review of the attached code changes.'
 ---
 # Code Review Feedback
 

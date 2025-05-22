@@ -23,3 +23,7 @@ yarn-error.log*
 .idea/
 *.sublime-workspace
 *.sublime-project
+
+# Personal instructions
+.github/instructions/003_personal/*
+!.github/instructions/003_personal/
