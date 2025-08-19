@@ -1,5 +1,5 @@
 ---
-applyTo: "**/*.ts"
+applyTo: "**/*.ts, **/*.js"
 ---
 # JavaScript Rule
 
