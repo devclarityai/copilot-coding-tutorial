@@ -1,5 +1,4 @@
 ---
-mode: 'agent'
 description: 'Begins implementing a task following an implementation plan.'
 ---
 # Step-by-Step Implementation Process

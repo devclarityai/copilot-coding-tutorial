@@ -5,11 +5,10 @@ This is a website to help you learn how to use AI coding assistants.
 ## Walkthrough
 
 1. Instructions
-2. Mode Explanation - Understanding & Writing/Prediction
+2. Mode Explanation - Planning vs. Implementing 
 3. Understanding - Codebase
 4. Understanding - Tagging
-  a. @ sign, Copilot Extensions
-5. Writing - Inline Code
+5. Writing - Inline Code (using Copilot)
 6. Writing - Simple Ask
   a. The "Learn More About Our Features" button on the index.html page doesn't animate in with the rest of the features section, so it looks weird.
 7. Writing - Workflow
