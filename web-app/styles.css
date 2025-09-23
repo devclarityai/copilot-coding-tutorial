@@ -63,12 +63,12 @@ nav {
 .hero h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .hero p {
   font-size: 1.25rem;
-  color: #FFFFFF;
+  color: #000000;
   max-width: 600px;
   margin: 0 auto 2rem;
 }
