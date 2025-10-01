@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: always_on
 ---
+
 # File Directory Structure
 
 ## the main web application

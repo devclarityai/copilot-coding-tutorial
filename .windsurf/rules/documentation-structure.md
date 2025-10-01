@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: model_decision
 ---
+
 # Documentation Structure
 
 - README.md: Project overview, quick start, features, and key information

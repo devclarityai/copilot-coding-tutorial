@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: model_decision
 ---
+
 # CSS Rule
 
 ## BEM Pattern (Block Element Modifier)

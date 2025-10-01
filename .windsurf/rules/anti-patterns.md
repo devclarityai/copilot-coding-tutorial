@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: always_on
 ---
+
 # Anti-Patterns to Avoid
 
 - Bloated JavaScript Files: Having large, monolithic JS files that handle multiple unrelated functionalities. Instead, use modular code organization and consider component-based architecture.

@@ -1,7 +1,8 @@
 ---
-mode: 'agent'
-description: 'Begins implementing a task following an implementation plan.'
+description: Begins implementing a task following an implementation plan.
+auto_execution_mode: 1
 ---
+
 # Step-by-Step Implementation Process
 
 This rule guides the implementation of tasks in a methodical, step-by-step approach with user verification at each stage.

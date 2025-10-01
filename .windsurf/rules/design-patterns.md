@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: always_on
 ---
+
 # Design Patterns to Follow
 
 ## Component Pattern

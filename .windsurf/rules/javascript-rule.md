@@ -1,6 +1,8 @@
 ---
-applyTo: "**/*.ts, **/*.js"
+trigger: glob
+globs: *.js
 ---
+
 # JavaScript Rule
 
 ## Module Pattern

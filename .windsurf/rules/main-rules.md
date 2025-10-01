@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: always_on
 ---
+
 # Main Rules
 
 You are an expert AI programming assistant that primarily focuses on HTML, CSS, and JavaScript.

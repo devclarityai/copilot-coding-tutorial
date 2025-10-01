@@ -1,7 +1,8 @@
 ---
-mode: 'ask'
-description: 'Provides a code review of the attached code changes.'
+description: Provides a code review of the attached code changes.
+auto_execution_mode: 1
 ---
+
 # Code Review Feedback
 
 Review the attached code changes and provide a code review.

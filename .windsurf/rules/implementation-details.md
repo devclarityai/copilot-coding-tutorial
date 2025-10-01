@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: manual
 ---
+
 # Important: Ask about implementation details
 
 Before writing code, if there is an important implementation detail that you are deciding, ask me about it and let's decide together.

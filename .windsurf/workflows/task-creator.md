@@ -1,7 +1,8 @@
 ---
-mode: 'edit'
-description: 'Creates an implementation plan markdown file from a task description.'
+description: Creates an implementation plan markdown file from a task description.
+auto_execution_mode: 1
 ---
+
 # Task Creator
 
 When a new task or feature is specified, create a markdown file named `{task-name}.md` in the root directory that contains:

@@ -1,6 +1,7 @@
 ---
-applyTo: 'none'
+trigger: always_on
 ---
+
 # Ruby on Rails Best Practices
 
 - Use Stimulus controllers for all JavaScript functionality

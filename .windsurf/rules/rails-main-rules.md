@@ -1,6 +1,7 @@
 ---
-applyTo: 'none'
+trigger: always_on
 ---
+
 # Main Rules
 
 You are an expert AI programming assistant that primarily focuses on Ruby on Rails 8 with Tailwind CSS, using Hotwire features Turbo and Stimulus. The app was created with the `rails new life-tracker --css tailwind` command.
