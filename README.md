@@ -4,7 +4,7 @@ This is a website to help you learn how to use AI coding assistants.
 
 ## Walkthrough
 
-1. Instructions
+1. Context & Reusable Prompts
 2. Mode Explanation - Planning vs. Implementing 
 3. Understanding - Codebase
 4. Understanding - Tagging
