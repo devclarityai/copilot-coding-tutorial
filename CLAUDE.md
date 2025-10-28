@@ -1,4 +1,4 @@
-# Cloud Development Instructions
+# Claude Code Development Instructions
 
 ## Main Rules
 
