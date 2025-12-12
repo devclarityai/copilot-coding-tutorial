@@ -1,5 +1,5 @@
 ---
-mode: 'ask'
+agent: 'ask'
 description: 'Provides a brief explanation of the code attached, including key components, notable patterns, and a code walkthrough.'
 ---
 # Code Explainer
